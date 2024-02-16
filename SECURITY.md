@@ -6,7 +6,7 @@ I take the security of our open-source project seriously. If you discover any se
 
 Please do not create a public GitHub issue for security vulnerabilities. Instead, follow our responsible disclosure process:
 
-1. Please contact at [linkedin](https://www.linkedin.com/in/sk-sabbir-hossain/) with a detailed description of the vulnerability.
+1. Please contact at with a detailed description of the vulnerability.
 
 ## Supported Versions
 
@@ -28,10 +28,8 @@ The following versions of our project are currently being supported with securit
 
 I would like to thank the following individuals for responsibly disclosing security issues:
 
-- [Md Sabbir Hossain] ([https://github.com/sksabbirhossain])
-
+- [Md Sabbir Hossain] ([https://github.com/snowmandot0520])
 
 ## License
 
 This project is licensed under the [MIT License](LICENSE.md).
-
